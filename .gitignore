@@ -1,5 +1,6 @@
 # Ignore the raw_data folder
 raw_data/
+clean_data/
 
 # Ignore the secret_key.json file in the model_training folder
 model_training/secret_key.json
